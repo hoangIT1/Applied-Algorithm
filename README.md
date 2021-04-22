@@ -1,1 +1,3 @@
-##                          Applied Algorithm
+<div align="center">
+
+## Applied Algorithm
