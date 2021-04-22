@@ -64,7 +64,7 @@ void BFS(int a, int b, int target)
             int c = u.first + ap;
             int d = u.second - ap;
  
-            if (c == a || (d == 0 && d >= 0))
+            if (c == a || d >= 0)
                 q.push({ c, d });
  
  
@@ -72,7 +72,7 @@ void BFS(int a, int b, int target)
             d = u.second + ap;
  
  
-            if ((c == 0 && c >= 0) || d == b)
+            if (c>= 0) || d == b)
                 q.push({ c, d });
         }
  
