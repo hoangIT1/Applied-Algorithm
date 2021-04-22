@@ -1,3 +1,3 @@
 <div align="center">
 
-## Applied Algorithm Code (Updating ... )
+## Applied Algorithm Code (Being Updated ...)
